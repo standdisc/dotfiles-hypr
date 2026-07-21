@@ -7,13 +7,13 @@ git clone --depth=1 https://github.com/standdisc
 
 ## Contents - Apps
 `` 
-waybar
-kitty
-hyprshot
-hyprpicker
-rofi
-pavucontrol
-nvim
-zsh
+waybar\n
+kitty\n
+hyprshot\n
+hyprpicker\n
+rofi\n
+pavucontrol\n
+nvim\n
+zsh\n
 starship
 ``
