@@ -2,7 +2,7 @@
 
 ## Installation
 `` sh
-git clone --depth=1 https://github.com/standdisc
+$ git clone --depth=1 https://github.com/standdisc
 ``
 
 ## Contents - Apps
