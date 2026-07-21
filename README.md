@@ -1,12 +1,12 @@
 ## My Hyprland Dotfiles
 
 ## Installation
-``sh
+`` sh
 git clone --depth=1 https://github.com/standdisc
 ``
 
 ## Contents - Apps
-``
+`` 
 waybar
 kitty
 hyprshot
